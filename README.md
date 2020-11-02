@@ -4,5 +4,7 @@ Web Application that fetch videos from this API https://www.scorebat.com/video-a
 and rendering via ReactJS on a web page.
 
 
-#Technologies
+
+#Technologies:
+
 Javascript, JQuery, ReactJS, Bootstrap, HTML5, CSS
