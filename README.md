@@ -5,6 +5,6 @@ and rendering via ReactJS on a web page.
 
 
 
-#Technologies:
+# Technologies:
 
 Javascript, JQuery, ReactJS, Bootstrap, HTML5, CSS
